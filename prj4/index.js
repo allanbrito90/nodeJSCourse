@@ -1,10 +1,12 @@
 /*
-É preciso instalar o módulo do express primeiro:
--No prompt de comando, digite:
+This program was used to test modules and how to write to a HTML page.
+
+You need to download express first in order to run this program:
+-In command prompt, type:
 npm install express --save
--Caso não funcione, digite:
+-If doesn't work, type:
 npm init -y 
-e depois tente novamente
+and try again
 */
 const express = require("express");
 const app = express();

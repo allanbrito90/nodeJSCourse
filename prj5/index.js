@@ -1,3 +1,6 @@
+/*
+This program use an static HTML to be used with Node.js
+*/
 const express = require("express");
 const app = express();
 
